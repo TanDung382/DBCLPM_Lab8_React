@@ -1,0 +1,27 @@
+
+.home-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .movie-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .movie-card {
+    width: 250px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .movie-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
